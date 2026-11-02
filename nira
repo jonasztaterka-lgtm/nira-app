@@ -1,0 +1,14 @@
+# Dane techniczne formy
+numer_formy = "F-101"
+numer_wypraski = "W-500"
+waga_kg = 450.5
+miejsce_składowania = "Regał 3, Półka B"
+
+# Stan formy (True = sprawna, False = wymaga naprawy)
+czy_sprawna = True
+
+# Wyświetlanie danych w konsoli
+print("--- DANE FORMY ---")
+print("Numer formy:", numer_formy)
+print("Miejsce składowania:", miejsce_składowania)
+print("Czy sprawna:", czy_sprawna)
